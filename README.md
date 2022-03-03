@@ -1,7 +1,7 @@
 # Traitor
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
-234522343567
+234522343567567
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities (including most of [GTFOBins](https://gtfobins.github.io/)) in order to pop a root shell.
 
 ![Demo](demo.gif)
