@@ -9,14 +9,14 @@ Traitor packages up a bunch of methods to exploit local misconfigurations and vu
 It'll exploit most sudo privileges listed in GTFOBins to pop a root shell, as well as exploiting issues like a writable `docker.sock`, or the recent polkit CVE-2021-4034. More routes to root will be added over time too.
 esgrhtjyku
 ## Usage
-
-Run with no arguments to find potential vulnerabilities/misconfigurations which could allow privilege escalation. Add the `-p` flag if the current user password is known. The password will be requested if it's needed to analyse sudo permissions etc.
+ffdvvfd
+Run with no arguments to find potential vulnerabilities/misconfigurations which could allow privilege escalation. Add the `-p` fdfvdfvdfvflag if the current user password is known. The password will be requested if it's needed to analyse sudo permissions etc.
 defgrthyj
 ```bash
 traitor -p
 ```
 rtjy
-Run with the `-a`/`--any` flag to find potential vulnerabilities, attempting to exploit each, stopping if a root shell is gained. Again, add the `-p` flag if the current user password is known.
+Run with the `-a`/`--any` flag to find potential ffvdvfdvfdvulnerabilities, attempting to exploit each, stopping if a root shell is gained. Again, add the `-p` flag if the current user password is known.
 
 ```bash
 traitor -a -p
