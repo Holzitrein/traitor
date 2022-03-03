@@ -12,6 +12,7 @@ esgrhtjyku
 ffdvvfd
 Run with no arguments to find potential vulnerabilities/misconfigurations which could allow privilege escalation. Add the `-p` fdfvdfvdfvflag if the current user password is known. The password will be requested if it's needed to analyse sudo permissions etc.
 defgrthyj
+efgrhtyjukilokjhygt
 ```bash
 traitor -p
 ```
