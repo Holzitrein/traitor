@@ -36,7 +36,7 @@ Traitor will run on all Unix-like systems, though certain exploits will only fun
 ## Getting Traitor
 
 Grab a binary from the [releases page](https://github.com/liamg/traitor/releases), or use go:
-
+ffvdgbnhmj,khgdfbhjm
 ```
 CGO_ENABLED=0 go get -u github.com/liamg/traitor/cmd/traitor
 ```
